@@ -1,0 +1,176 @@
+{
+        "master_file_version": "1.0",
+        "master_file_updated": "15/09/2026",
+	"versions":
+	[
+		{
+			"project": "GRUDZDGOS",
+			"name": "2.9.2",
+			"active_targets":
+			[
+				{"platform": "GEN8", "opco": "MEO", "modelName": "GR140DG"},
+				{"platform": "GEN8", "opco": "AUS", "modelName": "GR140DG"},
+				{"platform": "GEN8", "opco": "HOT", "modelName": "GR140DG"}
+			]
+		},
+		{
+			"project": "GRUDZDGOS",
+			"name": "2.13.0",
+			"active_targets":
+			[
+				{"platform": "GEN8", "opco": "AUS", "modelName": "GR140DG"},
+				{"platform": "GEN8", "opco": "HOT", "modelName": "GR140DG"}
+			]
+		},
+		{
+			"project": "GRUDZDGOS",
+			"name": "2.13.1",
+			"active_targets":
+			[
+				{"platform": "GEN8", "opco": "MEO", "modelName": "GR140DG"},
+				{"platform": "GEN8", "opco": "AUS", "modelName": "GR140DG"},
+				{"platform": "GEN8", "opco": "HOT", "modelName": "GR140DG"}
+			]
+		},
+		{
+			"project": "GRUDZDGOS",
+			"name": "2.14.0",
+			"active_targets":
+			[
+				{"platform": "GEN8", "opco": "SFR", "modelName": "GR140DG"}
+			]
+		},
+		{
+			"project": "GRUDZDGOS",
+			"name": "2.15.0",
+			"active_targets":
+			[
+				{"platform": "GEN8", "opco": "MEO", "modelName": "GR140DG"},
+				{"platform": "GEN8", "opco": "AUS", "modelName": "GR140DG"},
+				{"platform": "GEN8", "opco": "HOT", "modelName": "GR140DG"}
+			]
+		},
+		{
+			"project": "MAINSTR",
+			"name": "3.3.0",
+			"active_targets":
+			[
+				{"platform": "GEN8", "opco": "MEO", "modelName": "GR140IG"},
+				{"platform": "GEN8", "opco": "AUS", "modelName": "GR140IG"},
+				{"platform": "GEN8", "opco": "HOT", "modelName": "GR140IG"}
+			]
+		},
+		{
+			"project": "MAINSTR",
+			"name": "3.7.0",
+			"active_targets":
+			[
+				{"platform": "GEN8", "opco": "AUS", "modelName": "GR140IG"},
+				{"platform": "GEN8", "opco": "HOT", "modelName": "GR140IG"}
+			]
+		},
+		{
+			"project": "MAINSTR",
+			"name": "3.7.1",
+			"active_targets":
+			[
+				{"platform": "GEN8", "opco": "TELEVES", "modelName": "GR140IG"},
+				{"platform": "GEN8", "opco": "GENERIC", "modelName": "GR140IG"},
+				{"platform": "GEN8", "opco": "MSS", "modelName": "XSR151DX"}
+			]
+		},
+		{
+			"project": "MAINSTR",
+			"name": "3.7.2",
+			"active_targets":
+			[
+				{"platform": "GEN8", "opco": "MEO", "modelName": "GR140IG"},
+				{"platform": "GEN8", "opco": "AUS", "modelName": "GR140IG"},
+				{"platform": "GEN8", "opco": "HOT", "modelName": "GR140IG"}
+			]
+		},
+		{
+			"project": "MAINSTR",
+			"name": "3.8.0",
+			"active_targets":
+			[
+				{"platform": "GEN8", "opco": "SFR", "modelName": "GR140IG"}
+			]
+		},
+		{
+			"project": "MAINSTR",
+			"name": "3.9.0",
+			"active_targets":
+			[
+				{"platform": "GEN8", "opco": "MEO", "modelName": "GR140DG"},
+				{"platform": "GEN8", "opco": "AUS", "modelName": "GR140DG"},
+				{"platform": "GEN8", "opco": "HOT", "modelName": "GR140DG"}
+			]
+		},
+		{
+			"project": "GENXPON",
+			"name": "5.0.1",
+			"active_targets":
+			[
+				{"platform": "GEN10", "opco": "MEO", "modelName": "XSR240LNR"},
+				{"platform": "GEN10", "opco": "MEO", "modelName": "GR240NHR"}
+			]
+		},
+		{
+			"project": "GENXPON",
+			"name": "5.1.1",
+			"active_targets":
+			[
+				{"platform": "GEN10", "opco": "AUS", "modelName": "GR140DG", "modelNameExtra1": "GR140DGM"},
+				{"platform": "GEN10", "opco": "AUS", "modelName": "XSR150DX", "modelNameExtra1": "XSR150DXM"},
+				{"platform": "GEN10", "opco": "AUS", "modelName": "GR140IG"},
+				{"platform": "GEN10", "opco": "AUS", "modelName": "GR240JH"},
+				{"platform": "GEN10", "opco": "AUS", "modelName": "XSR250GK"}
+			]
+		},
+		{
+			"project": "GENXPON",
+			"name": "5.2.1",
+			"active_targets":
+			[
+				{"platform": "GEN10", "opco": "HOT", "modelName": "GR240OG"}
+			]
+		},
+		{
+			"project": "GENXPON",
+			"name": "6.0.1",
+			"active_targets":
+			[
+				{"platform": "GEN10", "opco": "HOT", "modelName": "GR240OH"},
+				{"platform": "GEN10", "opco": "MEO", "modelName": "GR141OH"},
+				{"platform": "GEN10", "opco": "HOT", "modelName": "XSR240OJ"}
+			]
+		},
+		{
+			"project": "GENXPON",
+			"name": "6.1.1",
+			"active_targets":
+			[
+				{"platform": "GEN10", "opco": "MEO", "modelName": "XSR240LNR"},
+				{"platform": "GEN10", "opco": "MEO", "modelName": "GR240NHR"},
+				{"platform": "GEN10", "opco": "HOT", "modelName": "GR240OG"},
+				{"platform": "GEN10", "opco": "HOT", "modelName": "GR240OH"},
+				{"platform": "GEN10", "opco": "MEO", "modelName": "GR141OH"},
+				{"platform": "GEN10", "opco": "HOT", "modelName": "XSR240OJ"}
+			]
+		},
+		{
+			"project": "GENXPON",
+			"name": "6.2.0",
+			"active_targets":
+			[
+				{"platform": "GEN10", "opco": "MEO", "modelName": "XSR240LNR"},
+				{"platform": "GEN10", "opco": "MEO", "modelName": "GR240NHR"},
+				{"platform": "GEN10", "opco": "HOT", "modelName": "GR240OG"},
+				{"platform": "GEN10", "opco": "HOT", "modelName": "GR240OH"},
+				{"platform": "GEN10", "opco": "MEO", "modelName": "GR141OH"},
+				{"platform": "GEN10", "opco": "HOT", "modelName": "XSR240OJ"}
+			]
+		}
+	]
+}
