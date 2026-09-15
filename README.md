@@ -1,6 +1,6 @@
 # Clone Wizard
 
-A command-line utility that generates clone targets from `master_targets.json` and optionally invokes **Clone Master** to create cloned issues automatically. Based on user-specified versions, targets, and filters, the script generates a `targets.json` file containing the clone definitions.
+A command-line utility that generates clone targets from `master_targets.json` and optionally invokes [Clone Master](https://github.com/daria-m-goncalves-alb/jira-clone-master) to create cloned issues automatically. Based on user-specified versions, targets, and filters, the script generates a `targets.json` file containing the clone definitions.
 
 ---
 
@@ -19,7 +19,7 @@ The script:
 2. Reads available targets from `master_targets.json`.
 3. Generates matching clone targets.
 4. Creates `targets.json`.
-5. Optionally invokes `clone-master-linux` to perform the actual cloning.
+5. Invokes `clone-master-linux` to perform the actual cloning.
 
 ---
 
@@ -178,9 +178,9 @@ Example:
 ```json
 {
   "project": "GENXPON",
-  "fixVersions": ["8.1.0"],
-  "affectsVersions": ["8.1.0"],
-  "labels": ["GPON","MEO","GR241AG","GR241AGV2"],
+  "fixVersions": ["9.9.9"],
+  "affectsVersions": ["9.9.9"],
+  "labels": ["GEN19","MEO","XSR240LNR"],
   "linkType": "Cloners"
 }
 ```
