@@ -138,6 +138,14 @@
 		},
 		{
 			"project": "GENXPON",
+			"name": "5.2.2",
+			"active_targets":
+			[
+				{"platform": "GEN10", "opco": "HOT", "modelName": "GR240OG"}
+			]
+		},
+		{
+			"project": "GENXPON",
 			"name": "6.0.1",
 			"active_targets":
 			[
